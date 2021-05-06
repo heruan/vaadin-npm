@@ -5,7 +5,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <properties>
-        <version.vaadin.platform>14.0.5</version.vaadin.platform>
+        <version.vaadin.platform>19.0.6</version.vaadin.platform>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <failOnMissingWebXml>false</failOnMissingWebXml>
